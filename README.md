@@ -45,7 +45,7 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 
 ### Getting Started
 
-1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://lnkd.in/gsC_dtnG
+1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/Abhishekvashisth07/Bank-loan-analysis-dashboard
 2. **Open the Power BI Project:** Open the `.pbix` file using Power BI Desktop.
 3. **Interact with Dashboards:** Explore the interactive dashboards and visualizations to gain insights into bank loan data.
 
